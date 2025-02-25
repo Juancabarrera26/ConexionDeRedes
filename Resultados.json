@@ -1,0 +1,16 @@
+{
+    "conexion": [
+        {
+            "tipo": "cable",
+            "velocidad_promedio": 950.2,
+            "ping_promedio": 2.1,
+            "perdida_paquetes": 0
+        },
+        {
+            "tipo": "wifi",
+            "velocidad_promedio": 250.4,
+            "ping_promedio": 12.5,
+            "perdida_paquetes": 0.3
+        }
+    ]
+}
